@@ -36,5 +36,7 @@ jobs:
           echo "Mihir Supekar " > a.txt
           echo New file added
           dir
+          echo "File Content -  "
+          cat a.txt
           echo test, and deploy your project.
           
